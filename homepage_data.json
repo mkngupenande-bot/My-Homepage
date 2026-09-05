@@ -1,0 +1,48 @@
+{
+  "person": {
+    "name": "Dr. John Smith",
+    "title": "Assistant Professor of Computer Science",
+    "affiliation": "University of California, San Diego",
+    "email": "timothyb@mcp.com",
+    "website": "https://johnsmith.cs.ucsd.edu",
+    "github": "https://github.com/mkngupenande-bot",
+    "google_scholar": "https://scholar.google.com/citations?user=example"
+  },
+  "papers": [
+    {
+      "id": "coml2025_oral",
+      "title": "Ipsum Lorem is all you need",
+      "authors": "John Smith, Jane Doe, and Richard Roe",
+      "conference": "COML 2025",
+      "status": "accepted",
+      "presentation": "Oral presentation (top ~1%)",
+      "preprint": "https://arxiv.org/abs/example-preprint",
+      "openreview": "https://openreview.net/forum?id=example123",
+      "code": "https://github.com/mkngupenande-bot/ipsum-lorem-all-you-need",
+      "notes": "Camera-ready deadline: 2025-12-16"
+    },
+    {
+      "id": "colmm2025",
+      "title": "Efficient Transformers for Long Document Summarization",
+      "authors": "Jane Doe, John Smith, and Richard Roe",
+      "conference": "COLM 2025",
+      "status": "accepted",
+      "preprint": "https://arxiv.org/abs/example2",
+      "openreview": null,
+      "code": null,
+      "notes": "Camera-ready portal open, deadline: 2025-12-10"
+    },
+    {
+      "id": "coai2025",
+      "title": "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments",
+      "authors": "Richard Roe, John Smith, and Jane Doe",
+      "conference": "COAI 2025",
+      "status": "accepted",
+      "preprint": "https://arxiv.org/abs/example3",
+      "openreview": null,
+      "code": "https://github.com/mkngupenande-bot/optimizing-llms-contextual-reasoning",
+      "notes": "Camera-ready deadline: 2025-12-12"
+    }
+  ],
+  "updated_date": "2025-12-05"
+}
